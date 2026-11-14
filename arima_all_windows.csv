@@ -1,0 +1,16 @@
+cutoff,Store,Model,MAPE_%,WAPE_%
+2015-07-03,98,ARIMA with weekly seasonality,26.85,29.21
+2015-07-03,480,ARIMA with weekly seasonality,22.73,25.45
+2015-07-03,486,ARIMA with weekly seasonality,28.41,31.47
+2015-07-03,735,ARIMA with weekly seasonality,27.37,31.83
+2015-07-03,865,ARIMA with weekly seasonality,28.98,29.66
+2015-06-05,98,ARIMA with weekly seasonality,33.06,35.65
+2015-06-05,480,ARIMA with weekly seasonality,25.73,29.74
+2015-06-05,486,ARIMA with weekly seasonality,32.05,35.18
+2015-06-05,735,ARIMA with weekly seasonality,27.35,33.44
+2015-06-05,865,ARIMA with weekly seasonality,35.4,36.89
+2015-05-08,98,ARIMA with weekly seasonality,29.92,32.25
+2015-05-08,480,ARIMA with weekly seasonality,27.43,30.28
+2015-05-08,486,ARIMA with weekly seasonality,28.78,31.73
+2015-05-08,735,ARIMA with weekly seasonality,29.75,33.52
+2015-05-08,865,ARIMA with weekly seasonality,31.9,33.05

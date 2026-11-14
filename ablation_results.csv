@@ -1,0 +1,31 @@
+cutoff,Store,Model,MAPE_%,WAPE_%
+2015-05-08,98,Gradient boosting (full),8.42,8.73
+2015-05-08,480,Gradient boosting (full),8.53,8.52
+2015-05-08,486,Gradient boosting (full),8.39,8.53
+2015-05-08,735,Gradient boosting (full),9.71,10.23
+2015-05-08,865,Gradient boosting (full),9.56,9.95
+2015-06-05,98,Gradient boosting (full),9.27,9.54
+2015-06-05,480,Gradient boosting (full),8.44,7.33
+2015-06-05,486,Gradient boosting (full),10.22,10.92
+2015-06-05,735,Gradient boosting (full),13.47,11.68
+2015-06-05,865,Gradient boosting (full),9.44,9.33
+2015-07-03,98,Gradient boosting (full),7.89,7.88
+2015-07-03,480,Gradient boosting (full),5.2,5.54
+2015-07-03,486,Gradient boosting (full),10.67,9.53
+2015-07-03,735,Gradient boosting (full),6.48,6.28
+2015-07-03,865,Gradient boosting (full),11.92,11.56
+2015-07-03,98,Gradient boosting without promo/holiday features,9.05,8.71
+2015-07-03,480,Gradient boosting without promo/holiday features,5.24,5.45
+2015-07-03,486,Gradient boosting without promo/holiday features,12.46,10.89
+2015-07-03,735,Gradient boosting without promo/holiday features,11.28,11.31
+2015-07-03,865,Gradient boosting without promo/holiday features,10.22,9.57
+2015-06-05,98,Gradient boosting without promo/holiday features,11.68,12.55
+2015-06-05,480,Gradient boosting without promo/holiday features,11.22,10.86
+2015-06-05,486,Gradient boosting without promo/holiday features,13.24,14.14
+2015-06-05,735,Gradient boosting without promo/holiday features,15.77,14.5
+2015-06-05,865,Gradient boosting without promo/holiday features,11.68,11.77
+2015-05-08,98,Gradient boosting without promo/holiday features,9.61,9.99
+2015-05-08,480,Gradient boosting without promo/holiday features,8.93,8.97
+2015-05-08,486,Gradient boosting without promo/holiday features,9.39,9.48
+2015-05-08,735,Gradient boosting without promo/holiday features,9.65,10.04
+2015-05-08,865,Gradient boosting without promo/holiday features,11.01,11.22

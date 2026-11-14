@@ -1,0 +1,7 @@
+margin,Model,cost_eur,cost_pct_of_sales,cost_eur_per_store_day
+0.15,Gradient boosting,90481,4.54,260.75
+0.15,Same-weekday mean,179866,9.03,518.35
+0.25,Gradient boosting,90725,4.56,261.46
+0.25,Same-weekday mean,184414,9.26,531.45
+0.35,Gradient boosting,90970,4.57,262.16
+0.35,Same-weekday mean,188962,9.49,544.56
