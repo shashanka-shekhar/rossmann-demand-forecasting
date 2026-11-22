@@ -1,0 +1,7 @@
+margin,Model,cost_eur
+0.15,Gradient boosting,90481
+0.15,Same-weekday mean,179866
+0.25,Gradient boosting,90725
+0.25,Same-weekday mean,184414
+0.35,Gradient boosting,90970
+0.35,Same-weekday mean,188962
